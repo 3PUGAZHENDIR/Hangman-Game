@@ -42,7 +42,7 @@ Welcome to the **Hangman Game**! This classic text-based game is designed to tes
    - Follow the on-screen instructions to start guessing letters.
    - The game will keep you updated with the current state of the word and your remaining guesses.
 
-## 🔧 Usage
+🔧 Usage
 
 1. Open your terminal and navigate to the project directory.
 2. Execute the game script with Python:
@@ -53,30 +53,13 @@ Welcome to the **Hangman Game**! This classic text-based game is designed to tes
 
 3. Start guessing letters to uncover the word and avoid the hangman!
 
-## 🏆 Contributing
 
-We welcome contributions to make the Hangman Game even better! To contribute:
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix (`git checkout -b feature-branch`).
-3. Make your changes and test them.
-4. Commit your changes (`git commit -am 'Add feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a Pull Request on GitHub.
 
-## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+ 📬 Contact
 
-## 🙌 Acknowledgements
-
-- **Inspired by:** Classic Hangman game rules.
-- **Tools:** Developed using Python.
-- **Community:** Thanks to the open-source community for resources and inspiration.
-
-## 📬 Contact
-
-For any questions or feedback, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, feel free to reach out to me at pugal06012002@gmail.com.
 
 Happy guessing! 🎉🕵️‍♂️
 ```
